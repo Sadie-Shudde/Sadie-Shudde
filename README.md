@@ -47,10 +47,10 @@ Data Structures & Algorithms • Computer Networks • Numerical Analysis • Li
 
 ##  Featured Projects
 
-###  [ML-Enhanced Root Finding](https://github.com/yourusername/ml-root-finding)
+###  [ML-Enhanced Root Finding](https://github.com/Sadie-Shudde/Machine-Learning-Enhanced-Newton-s-Method)
 Neural network model that optimizes numerical methods for solving equations. Trained on 1,000+ equations with R² score of 0.84.
 
-###  [Emotion Recognition AI](https://github.com/yourusername/emotion-recognition)
+###  [Emotion Recognition AI](https://github.com/Sadie-Shudde/Kennesaw-State-University-REU)
 CNN-LSTM hybrid model for detecting emotions from audio data. Implemented with TensorFlow and integrated Wav2Vec2 transformer.
 
 *More projects coming soon!*
