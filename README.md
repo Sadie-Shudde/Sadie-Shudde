@@ -32,7 +32,7 @@ Currently seeking **Summer 2026 internships** in AI/ML, data science, software e
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**  
 `Python` `C++` `C` `R` `MATLAB` `Java` `LaTeX`
@@ -83,5 +83,3 @@ CNN-LSTM hybrid model for detecting emotions from audio data. Implemented with T
 </div>
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
