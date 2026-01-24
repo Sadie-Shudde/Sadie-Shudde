@@ -1,5 +1,3 @@
-## Hi there
-
 # Hi, I'm Sadie Shudde! 
 
 **Mathematics & Computer Science Student @ Tarleton State University**  
