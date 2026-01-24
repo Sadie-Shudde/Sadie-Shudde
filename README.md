@@ -69,7 +69,7 @@ CNN-LSTM hybrid model for detecting emotions from audio data. Implemented with T
 
 - Email: sadieshudde@gmail.com
 - LinkedIn: www.linkedin.com/in/sadie-shudde
-- [View My Resume][(link-to-resume.pdf)](https://github.com/Sadie-Shudde/Resume/raw/main/Sadie_Shudde_Resume .pdf)
+- [View My Resume][(link-to-resume.pdf)](https://github.com/Sadie-Shudde/Resume/raw/main/Sadie_Shudde_Resume.pdf)
 
 ---
 
